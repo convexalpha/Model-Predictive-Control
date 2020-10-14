@@ -1,10 +1,10 @@
-# Model-Predictive-Controllers
+# Model-Predictive-Control
 Making model predictive controllers for making a Self-Driving or Autonomous Car follow the speed limit, pull into parking spaces, and avoid obstacles.
 
 ## Installation and Setup
 * Fork the repo and clone it.
 ```
-git clone https://github.com/Frostday/Model-Predictive-Controllers.git
+git clone https://github.com/StealthViper/Model-Predictive-Control.git
 ```
 * Install the necessary packages required to run the code
 ```
